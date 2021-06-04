@@ -3,18 +3,19 @@
 
 <img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="700" height="500" />
 
-<h2><img src="https://www.flaticon.com/svg/vstatic/svg/4341/4341740.svg?token=exp=1620858139~hmac=da79ffb05371933d3362f3c36a7b5c09" alt="bootstrap" width="20" height="20"/> ABOUT ME:</h2>
+<h2><img src="https://toppng.com/uploads/preview/help-your-student-college-student-icon-11562880688qcza431pme.png" alt="about-me" width="20" height="20"/> ABOUT ME:</h2>
 <ul>
 <li> 😄 Pronouns : He/His </li>
-<li> <img src="https://www.flaticon.com/svg/vstatic/svg/2231/2231696.svg?token=exp=1620858408~hmac=c5e463cd583c1cf2f4ebb4c610acf184" alt="bootstrap" width="20" height="20"/> College : Fresher At SRMIST </li>
+<li> <img src="https://s.pngix.com/pngfile/s/289-2898531_education-education-app-icon-png-transparent-png.png" alt="college" width="20" height="20"/> College : Fresher At SRMIST </li>
 <li> <img src="https://image.flaticon.com/icons/png/128/3500/3500440.png" alt="bootstrap" width="20" height="20"/> Btech CSE Core</li>  
-<li> <img src="https://www.flaticon.com/svg/vstatic/svg/3214/3214721.svg?token=exp=1620858757~hmac=aa913b4db5ef91a69541dede58f3dd0a" alt="bootstrap" width="17" height="17"/> Aspiring Full Stack Web Developer and Mobile App Developer </li>
+<li> <img src="https://png.pngtree.com/png-vector/20190302/ourmid/pngtree-vector-task-icon-png-image_718986.jpg" alt="aim" width="17" height="17"/> Aspiring Full Stack Web Developer and Mobile App Developer </li>
 </ul>  
 <br>  
-<h2> <img src="https://www.flaticon.com/svg/vstatic/svg/4207/4207253.svg?token=exp=1620859294~hmac=de9d8c3c670b74af50679112860ebfdb" alt="bootstrap" width="20" height="20"/> MY TECH STACK : </h2>  
+<h2> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/goal-128-563718.png" alt="skills" width="20" height="20"/> MY TECH STACK : </h2>  
 <h3> Programming Languages : </h3>
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1620859651~hmac=722201be0508d81c58979eed1b221f5e" alt="android" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="40" height="40"/>
+
 
 <h3> Web Development : </h3>
 
