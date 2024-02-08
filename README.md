@@ -6,9 +6,9 @@
 <h2><img src="https://toppng.com/uploads/preview/help-your-student-college-student-icon-11562880688qcza431pme.png" alt="about-me" width="20" height="20"/> ABOUT ME:</h2>
 <ul>
 <li> 😄 Pronouns : He/His </li>
-<li> <img src="https://s.pngix.com/pngfile/s/289-2898531_education-education-app-icon-png-transparent-png.png" alt="college" width="20" height="20"/> College : Fresher At SRMIST </li>
+<li> <img src="https://s.pngix.com/pngfile/s/289-2898531_education-education-app-icon-png-transparent-png.png" alt="college" width="20" height="20"/> College : Senior At SRMIST </li>
 <li> <img src="https://image.flaticon.com/icons/png/128/3500/3500440.png" alt="bootstrap" width="20" height="20"/> Btech CSE Core</li>  
-<li> <img src="https://png.pngtree.com/png-vector/20190302/ourmid/pngtree-vector-task-icon-png-image_718986.jpg" alt="aim" width="17" height="17"/> Aspiring Full Stack Web Developer and Mobile App Developer </li>
+<li> <img src="https://png.pngtree.com/png-vector/20190302/ourmid/pngtree-vector-task-icon-png-image_718986.jpg" alt="aim" width="17" height="17"/> Aspiring Full Stack Developer and Data Analyst </li>
 </ul>  
 <br>  
 <h2> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/goal-128-563718.png" alt="skills" width="20" height="20"/> MY TECH STACK : </h2>  
