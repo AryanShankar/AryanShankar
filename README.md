@@ -62,7 +62,7 @@
 <br>
 <a href="https://linkedin.com/in/aryan-shankar1609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-shankar1609" height="30" width="40" /></a>
 <a href="mailto:as2099@srmist.edu.in" target="blank"><img align="center" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="gmail logo" height="30" width="100" /></a> 
-<a href="https://www.instagram.com/aryans1609/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" alt="gmail logo" height="30" width="30" /></a>  
+<a href="https://www.instagram.com/aryans1609/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" alt="insta logo" height="30" width="30" /></a>  
 <a href="https://aryanshankar.github.io/WebPortfolio/" target="blank"><img align="center" src="https://camo.githubusercontent.com/3067b5f37b314a3dc069bed0c5ecb42e623013c21c4c9be9da96e697b6db2ca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d3030413938463f7374796c653d666f722d7468652d6261646765266c6f676f3d676174736279266c6f676f436f6c6f723d7768697465" alt="webportfolio" height="30" width="110" /></a>
 
 
