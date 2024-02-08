@@ -1,5 +1,5 @@
 <h3 align="center">Wassup Peeps👋!!!, Welcome to the World of</h3>
-<h1 align="center"> <<img src="https://image.flaticon.com/icons/png/128/785/785116.png" alt="hey" width="25" height="25"/> ARYAN SHANKAR <img src="https://image.flaticon.com/icons/png/128/785/785116.png" alt="bootstrap" width="25" height="25"/>> </h1> 
+<h1 align="center"> <<img src="https://image.flaticon.com/icons/png/128/785/785116.png" alt="hey" width="25" height="25"/> ARYAN SHANKAR <img src="https://image.flaticon.com/icons/png/128/785/785116.png" alt="hey" width="25" height="25"/>> </h1> 
 
 <img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="700" height="500" />
 
